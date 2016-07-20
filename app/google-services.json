@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "361163770248",
+    "firebase_url": "https://data-e7749.firebaseio.com",
+    "project_id": "data-e7749",
+    "storage_bucket": "data-e7749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361163770248:android:ac538129083b386d",
+        "android_client_info": {
+          "package_name": "com.example.leedayeon.listdetail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361163770248-c03riksp5lmv6s0c2bd6mejb1s77slfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOTngEaNgmmUVs5qGndRzEAZy5reGl7kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
